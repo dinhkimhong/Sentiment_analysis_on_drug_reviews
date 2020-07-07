@@ -1,11 +1,11 @@
 # Sentiment analysis on drug reviews
 # Build a model to predict good reviews and bad reviews using binary classifiers and neural network (Conv1D, LSTM)
-Source:
+Data source: \n
 
-Surya Kallumadi
-Kansas State University
-Manhattan, Kansas, USA
-surya '@' ksu.edu
+Surya Kallumadi \n
+Kansas State University \n
+Manhattan, Kansas, USA \n
+surya '@' ksu.edu \n
 
 Felix Gräßer
 Institut für Biomedizinische Technik
